@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project_TodoList</string>
+    <string name="your_plan">What\'s your plan</string>
+    <string name="delete">delete</string>
+    <string name="set_date">Set date</string>
+    <string name="set_time">Set Time</string>
+</resources>
